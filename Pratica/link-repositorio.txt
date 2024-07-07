@@ -1,0 +1,13 @@
+https://github.com/felipeAguiarCode/angular-playground.git
+
+
+box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+
+Box Shadow CSS Generator
+
+https://cssgenerator.org/box-shadow-css-generator.html
+
+
+https://caniuse.com/ (compatibilidade de navegadores utiizando o shadow DOM)
