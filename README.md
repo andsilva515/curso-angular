@@ -1,4 +1,4 @@
-# Formação Angular Developer
+# Angular Developer
 # Conteúdo Programático:
 
 * Fundamentos de Front-end Componentizados
