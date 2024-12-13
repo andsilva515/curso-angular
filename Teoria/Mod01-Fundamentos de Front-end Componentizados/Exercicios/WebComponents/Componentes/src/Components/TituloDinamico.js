@@ -6,8 +6,8 @@ class TituloDinamico extends HTMLElement {
 
         //base do component
         const componentRoot = document.createElement("h1");
-        // componentRoot.textContent = "Anderson";
-        componentRoot.textContent = this.getAttribute("titulo");
+        componentRoot.textContent = "Anderson";
+
 
         //estilizar o component
         const style = document.createElement("style");
@@ -24,3 +24,6 @@ class TituloDinamico extends HTMLElement {
 }
 
 customElements.define("titulo-dinamico", TituloDinamico);
+
+
+// A página principal do scriot é home.html
