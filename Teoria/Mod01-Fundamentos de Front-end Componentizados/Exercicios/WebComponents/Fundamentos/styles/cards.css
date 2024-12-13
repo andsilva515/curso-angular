@@ -5,7 +5,7 @@
     font-family: 'Segoe UI' , Sans-serif;
 }
 
-.card{
+.card {
     width: 80%;
     border: 1px solid gray;
     box-shadow: 9px 9px 27px 0px rgba(0,0,0,0.75);
@@ -16,7 +16,7 @@
     justify-content: space-between;
 }
 
-.card_left{
+.card_left {
     display: flex;
     flex-direction: column;
     justify-content: center;
